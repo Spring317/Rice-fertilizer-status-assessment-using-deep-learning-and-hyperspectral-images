@@ -2,5 +2,7 @@ flask
 numpy
 matplotlib
 torch
-sklearn
+scikit-learn
 tiffile
+opencv-python
+tqdm
